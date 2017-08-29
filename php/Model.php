@@ -1,4 +1,5 @@
-<?php 
+<?php
+	require "controller.php";
 	class Model{ // CreateReadUpdateDelete
 
 
