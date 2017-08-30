@@ -1,7 +1,7 @@
 <?php 
-	require "Controller.php";
+   require "Controller.php";
    require "UsersModel.php"; // Charger le fichier php
-	class UsersController{
+   class UsersController{
         
         public function addUser(){
             $redirect = 0; // Define ma variable de redirection

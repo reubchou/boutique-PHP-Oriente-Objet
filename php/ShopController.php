@@ -10,6 +10,8 @@
           $itemHome=$this->itemsModel->listenerItem($id);
 		  if(sizeof($itemHome)!=1)
 		  {
-			  
+			  header("location:".HOST
 		  }
     }
+	
+	
